@@ -10,3 +10,7 @@ ssh/config
 putty for mac
 pegent
 
+20180830
+マネーローンダリング
+자금세탁
+
